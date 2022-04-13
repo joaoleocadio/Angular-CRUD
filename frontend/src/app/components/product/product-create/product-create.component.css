@@ -1,0 +1,17 @@
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+#save {
+    margin: 20px 15px 0px 0px;
+}
+
+#save:hover {
+    background-color: #7E88C1;
+    color: black;
+}
+
+#delete:hover {
+    background-color: #CCCCCC;
+}

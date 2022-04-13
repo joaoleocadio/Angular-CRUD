@@ -1,0 +1,20 @@
+form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+button#remover {
+    background-color:#e90010;
+    color: white;
+    margin: 20px 15px 0px 0px;
+}
+
+button#remover:hover {
+    background-color:  #c74952;
+    color: black;
+}
+
+button#cancel:hover {
+    background-color: #CCCCCC;
+}

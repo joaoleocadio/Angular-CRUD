@@ -1,0 +1,15 @@
+table {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.edit {
+    padding-right: 15px;
+}
+.edit > i {
+    color: green;
+}
+
+/* i.delete {
+
+} */
